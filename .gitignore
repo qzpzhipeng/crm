@@ -1,1 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
+!/.idea/
+!/mage_crm.iml
+/target
